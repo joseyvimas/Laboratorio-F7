@@ -1,6 +1,6 @@
-Geolocalización:
+GeolocalizaciÃ³n:
 
-https://developers.google.com/maps/documentation/javascript/adding-a-google-map
+https://developers.google.com/maps/documentation/javascript/examples/map-geolocation?hl=es-419
 
 Registro:
 
